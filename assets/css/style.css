@@ -83,3 +83,59 @@ a:hover {
 }
 
 }
+
+@media only screen and (max-width: 480px) {
+    /* UNDER CONTRUCTION TITLE */
+
+.title {
+    font-size: 36px;
+    margin-left: 30px;
+    margin-top: 140px;
+}
+
+/* MESSAGE  */
+
+.message {
+    font-size: 14px;
+    margin-left: 35px;
+    margin-top: 20px;
+    width: 190px;
+}
+
+/* CONNECT WITH ME */
+
+.connect {
+    font-size: 14px;
+    margin-left: 35px;
+    width: 190px;
+}
+
+}
+
+@media only screen and (max-width: 360px) {
+    /* UNDER CONTRUCTION TITLE */
+
+.title {
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 140px;
+}
+
+/* MESSAGE  */
+
+.message {
+    font-size: 12px;
+    margin-left: 35px;
+    margin-top: 20px;
+    width: 140px;
+}
+
+/* CONNECT WITH ME */
+
+.connect {
+    font-size: 12px;
+    margin-left: 35px;
+    width: 140px;
+}
+
+}
