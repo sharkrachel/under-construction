@@ -1,12 +1,26 @@
-body, html {
-    height: 100%;
-    margin: 0;
-}
+html { 
+    background: url("../images/nika-akin-HxJdxLMUjsI-unsplash.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 
-.container {
+/* .container {
     background-image: url("../images/nika-akin-HxJdxLMUjsI-unsplash.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0px;
+    padding: 0px;
+} */
+
+.title {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    font-size: 80px;
+    line-height: 1em;
+    margin-left: 80px;
+    margin-top: 240px;
 }
