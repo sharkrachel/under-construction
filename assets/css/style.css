@@ -24,3 +24,33 @@ html {
     margin-left: 80px;
     margin-top: 240px;
 }
+
+.message {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin-left: 85px;
+    margin-top: -30px;
+    width: 430px;
+}
+
+.connect {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin-left: 85px;
+    margin-top: 30px;
+    width: 430px;
+
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
